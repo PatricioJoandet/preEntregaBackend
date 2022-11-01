@@ -1,0 +1,23 @@
+[
+   {
+      "timestamp": "1/11/2022 18:04:29",
+      "products": [],
+      "id": 1
+   },
+   {
+      "timestamp": "1/11/2022 19:16:01",
+      "products": [
+         {
+            "title": "Guitarra",
+            "description": "Guitarra acustica",
+            "code": "GRAC001",
+            "thumbnail": "url",
+            "price": 15000,
+            "stock": 5,
+            "timestamp": "1/11/2022 14:39:49",
+            "id": 2
+         }
+      ],
+      "id": 2
+   }
+]
